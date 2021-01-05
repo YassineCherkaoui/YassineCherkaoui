@@ -2,7 +2,7 @@
 
 #### I am Full stack Developer And Student at YouCode  <a href="https://stars.github.com/">GitHub Star 🌟</a>
 
-<img src="https://github.com/YassineCherkaoui/YassineCherkaoui/blob/master/gh-header-image-cropped.png">
+<img src="https://github.com/YassineCherkaoui/YassineCherkaoui/blob/master/gh-header-image-cropped.jpg">
 
 ![Profile views](https://gpvc.arturio.dev/YassineCherkaoui) <a href="https://github.com/YassineCherkaoui"><img src="https://img.shields.io/github/followers/YassineCherkaoui?label=Follow&style=social"></a> <a href="https://linkedin.com/CherkaouiYa"><img src="https://img.shields.io/linkedin/follow/CherkaouiYa?style=social"></a>
 
