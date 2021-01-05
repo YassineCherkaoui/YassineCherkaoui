@@ -1,6 +1,6 @@
 ### Hi, I'm YASSINE CHERKAOUI
 
-#### I am Full stack Developer And Student at YouCode  <a href="https://stars.github.com/">GitHub Star 🌟</a>
+#### I am Full stack Developer And Student at YouCode <a href="https://stars.github.com/">GitHub Star 🌟</a>
 
 <img src="https://github.com/YassineCherkaoui/YassineCherkaoui/blob/master/gh-header-image-cropped.jpg">
 
@@ -19,6 +19,8 @@
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/6181431?s=280&v=4"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
+<code><img height="20" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/java-logo.png"></code>
+<code><img height="20" src="https://i.pinimg.com/originals/76/a9/5f/76a95f9c06fc84a22a65e773072e5048.png"></code>
+<code><img height="20" src="https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg"></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui)](https://github.com/anuraghazra/github-readme-stats)
