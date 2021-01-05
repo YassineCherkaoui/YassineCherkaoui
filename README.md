@@ -19,5 +19,6 @@
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/6181431?s=280&v=4"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui)](https://github.com/anuraghazra/github-readme-stats)
