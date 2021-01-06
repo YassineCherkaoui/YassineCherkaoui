@@ -23,4 +23,6 @@
 <code><img height="20" src="https://i.pinimg.com/originals/76/a9/5f/76a95f9c06fc84a22a65e773072e5048.png"></code>
 <code><img height="20" src="https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoufiqq)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui)](https://github.com/anuraghazra/github-readme-stats)
