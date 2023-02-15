@@ -8,6 +8,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/YassineCherkaoui) <a href="https://github.com/YassineCherkaoui"><img src="https://img.shields.io/github/followers/YassineCherkaoui?label=Follow&style=social"></a> <a href="https://twitter.com/CherkaouiYa"><img src="https://img.shields.io/twitter/follow/CherkaouiYa?style=social"></a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YassineCherkaoui" alt="YassineCherkaoui" /></a> </p>
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
