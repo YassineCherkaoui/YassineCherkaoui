@@ -30,4 +30,4 @@
 <code><img height="20" src="https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg"></code>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui)](https://github.com/anuraghazra/github-readme-stats)
+[![Yassine's github stats](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui)]
