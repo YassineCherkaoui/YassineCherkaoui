@@ -30,4 +30,5 @@
 <code><img height="20" src="https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg"></code>
 
 
-[My LinkedIn](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui)
+![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineCherkaoui&count_private=true)
+
