@@ -2,6 +2,8 @@
 
 #### I am Full stack JS  <a href="https://stars.github.com/">GitHub Star 🌟</a>
 - [My Portfolio Website](https://yassinecherkaoui.github.io/PORTFOLIO/)
+- [My CV](https://drive.google.com/file/d/18k1f3JZC8Ef3rypHuTGJNQS7hTH9IChr/view?usp=share_link)
+- [My LinkedIn](https://www.linkedin.com/in/cherkaouiya/)
 
 <!-- <img src="https://github.com/YassineCherkaoui/YassineCherkaoui/blob/master/gh-header-image-cropped.jpg"> -->
 <center><img src="./tirex.gif"/></center>
