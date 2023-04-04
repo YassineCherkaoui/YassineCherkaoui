@@ -1,10 +1,8 @@
-### Hi, I'm YASSINE CHERKAOUI
+### Hi, I'm YASSINE CHERKAOUI I can describe myself as a tech nerd.
 
-#### I'm Yassine Cherkaoui, I can describe myself as a tech nerd.
+#### Currently working as a full stack JS in V12Software . 
 
-Currently working as a full stack JS in V12Software . 
-
-What I'm bringing with me
+What I'm bringing with me <br>
 ➤ 2 years of professional experience as a full stack web developer
 ➤ 1 years of professional experience as a full stack JS (NodeJS/VueJS/React)
 ➤ 1 years of working remotely worldwide (Freelance)
