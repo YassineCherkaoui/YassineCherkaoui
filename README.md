@@ -3,26 +3,26 @@
 #### Currently working as a full stack JS in V12Software . 
 
 What I'm bringing with me <br>
-➤ 2 years of professional experience as a full stack web developer
-➤ 1 years of professional experience as a full stack JS (NodeJS/VueJS/React)
-➤ 1 years of working remotely worldwide (Freelance)
-➤ Frontend (focusing react js, next js daily tool)
-➤ Mid-level backend developer (focusing on node js)
-➤ Served 40+ clients as a freelancer
-➤ More than 20+ WordPress Ecommerce Projects and Normal website
-➤ Lead small team
+➤ 2 years of professional experience as a full stack web developer <br>
+➤ 1 years of professional experience as a full stack JS (NodeJS/VueJS/React) <br>
+➤ 1 years of working remotely worldwide (Freelance) <br>
+➤ Frontend (focusing react js, next js daily tool) <br>
+➤ Mid-level backend developer (focusing on node js) <br>
+➤ Served 40+ clients as a freelancer <br>
+➤ More than 20+ WordPress Ecommerce Projects and Normal website <br>
+➤ Lead small team <br>
 
-I'm using regularly
-➤ Typescript, Nextjs, Reactjs, Javascript, Nodejs, Expressjs, Rest API,React Native,WordPress, Vscode & Git
+I'm using regularly <br>
+➤ Typescript, Nextjs, Reactjs, Javascript, Nodejs, Expressjs, Rest API,React Native,WordPress, Vscode & Git <br>
 
-Currently Learning
-➤ JAVA, Python 
+Currently Learning <br>
+➤ JAVA, Python  <br>
 
-Important Links
-<a href="https://stars.github.com/">GitHub Star 🌟</a>
-- [My Portfolio Website](https://yassinecherkaoui.github.io/PORTFOLIO/)
-- [My CV](https://drive.google.com/file/d/18k1f3JZC8Ef3rypHuTGJNQS7hTH9IChr/view?usp=share_link)
-- [My LinkedIn](https://www.linkedin.com/in/cherkaouiya/)
+Important Links <br>
+<a href="https://stars.github.com/">GitHub Star 🌟</a> <br>
+- [My Portfolio Website](https://yassinecherkaoui.github.io/PORTFOLIO/) <br>
+- [My CV](https://drive.google.com/file/d/18k1f3JZC8Ef3rypHuTGJNQS7hTH9IChr/view?usp=share_link) <br>
+- [My LinkedIn](https://www.linkedin.com/in/cherkaouiya/) <br>
 
 <!-- <img src="https://github.com/YassineCherkaoui/YassineCherkaoui/blob/master/gh-header-image-cropped.jpg"> -->
 <center><img src="./tirex.gif"/></center>
