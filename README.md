@@ -1,6 +1,27 @@
 ### Hi, I'm YASSINE CHERKAOUI
 
-#### I am Full stack JS  <a href="https://stars.github.com/">GitHub Star 🌟</a>
+#### I'm Yassine Cherkaoui, I can describe myself as a tech nerd.
+
+Currently working as a full stack JS in V12Software . 
+
+What I'm bringing with me
+➤ 2 years of professional experience as a full stack web developer
+➤ 1 years of professional experience as a full stack JS (NodeJS/VueJS/React)
+➤ 1 years of working remotely worldwide (Freelance)
+➤ Frontend (focusing react js, next js daily tool)
+➤ Mid-level backend developer (focusing on node js)
+➤ Served 40+ clients as a freelancer
+➤ More than 20+ WordPress Ecommerce Projects and Normal website
+➤ Lead small team
+
+I'm using regularly
+➤ Typescript, Nextjs, Reactjs, Javascript, Nodejs, Expressjs, Rest API,React Native,WordPress, Vscode & Git
+
+Currently Learning
+➤ JAVA, Python 
+
+Important Links
+<a href="https://stars.github.com/">GitHub Star 🌟</a>
 - [My Portfolio Website](https://yassinecherkaoui.github.io/PORTFOLIO/)
 - [My CV](https://drive.google.com/file/d/18k1f3JZC8Ef3rypHuTGJNQS7hTH9IChr/view?usp=share_link)
 - [My LinkedIn](https://www.linkedin.com/in/cherkaouiya/)
