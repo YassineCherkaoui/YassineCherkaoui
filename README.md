@@ -1,4 +1,5 @@
 ### Hi, I'm YASSINE CHERKAOUI I can describe myself as a tech nerd.
+As a Full Stack JavaScript developer, I have expertise in both front-end and back-end web development, and I am skilled in using a variety of modern technologies to build robust, scalable web applications. With experience in frameworks such as React, Angular, and Vue.js, as well as Node.js for back-end development and databases like MongoDB and MySQL, I am able to deliver end-to-end solutions that meet the needs of both clients and users. Additionally, I have experience working in agile development environments, collaborating closely with cross-functional teams to ensure that projects are delivered on time and to high standards. My passion for continuous learning and improvement drives me to stay up-to-date with the latest industry trends and best practices, and I am always looking for new challenges and opportunities to grow my skills.
 
 #### Currently working as a full stack JS in V12Software . 
 
