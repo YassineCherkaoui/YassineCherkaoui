@@ -21,6 +21,8 @@ Here are some of the technologies and skills I have expertise in:
 - **Deployment:** Heroku, AWS, Netlify
 - **Other:** RESTful APIs, GraphQL
 
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,vuejs,react,nodejs,vscode,postman,mysql,mongodb,electron,angular,bootstrap,express,firebase,git,github,java,laravel,nestjs,npm,nuxtjs,stackoverflow,tailwind,vite,vuetify)](https://skillicons.dev)
+
 ## Work Experience
 
 ### Full Stack JavaScript | V12Software | Santa Clara County, California, United States | Oct 2022 - Present
