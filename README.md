@@ -1,14 +1,12 @@
 <center><img src="./tirex.gif"/></center>
 
-# YASSINE CHERKAOUI || FULL STACK JAVASCRIPT
+# Software Engineer | Full Stack Developer ( React, Node.js, Next.js, and NestJS ) | Experienced Web Scraper
 
-Welcome to my portfolio! I'm a professional full-stack JavaScript developer with 3 years of industry experience and 2 years and 5 months as a freelance developer. This repository serves as a showcase of my work, skills, and contributions to the development community.
+Welcome to my portfolio! I'm a professional full-stack developer with 4 years of industry experience and 2 years as a freelance developer. This repository serves as a showcase of my work, skills, and contributions to the development community.
 
 ## About Me
 
 - **Name:** Yassine Cherkaoui
-- **My Blog:** Explore [MY Blog](https://amroot.hashnode.dev/) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/yassinecherkaoui/vscode-settings) for development optimization. 
 - **LinkedIn:** [MY LinkedIn Profile](https://www.linkedin.com/in/cherkaouiya/)
 - **Email:** yassine.cherkaoui007@gmail.com
 - **Location:** Casablanca, Morocco
